@@ -32,8 +32,8 @@ return [
     'dropbox' => [
         'type' => 'Dropbox',
         'token' => 'wAqFJ-QwcJAAAAAAAAAAGs_FCiwuLveH-89USpK_iiZIAoFD6UKtPZu_Rtp4RMtN',
-        'key' => 'wz6qxe9wt3qa4lt',
-        'secret' => '314cr54qoo36cbd',
+        'key' => '',
+        'secret' => '',
         'app' => 'laravel-OMS',
         'root' => '/backup',
     ],
